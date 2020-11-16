@@ -1,0 +1,15 @@
+H:\StevenFile\飞幕机器改造\新豪轩\上位机软件\配套测试\配套测试\obj\x86\Debug\配套测试.Form1.resources
+H:\StevenFile\飞幕机器改造\新豪轩\上位机软件\配套测试\配套测试\obj\x86\Debug\配套测试.Properties.Resources.resources
+H:\StevenFile\飞幕机器改造\新豪轩\上位机软件\配套测试\配套测试\obj\x86\Debug\配套测试.csproj.GenerateResource.Cache
+H:\StevenFile\飞幕机器改造\新豪轩\上位机软件\配套测试\配套测试\bin\Debug\配套测试.exe
+H:\StevenFile\飞幕机器改造\新豪轩\上位机软件\配套测试\配套测试\bin\Debug\配套测试.pdb
+H:\StevenFile\飞幕机器改造\新豪轩\上位机软件\配套测试\配套测试\obj\x86\Debug\配套测试.exe
+H:\StevenFile\飞幕机器改造\新豪轩\上位机软件\配套测试\配套测试\obj\x86\Debug\配套测试.pdb
+H:\飞幕\新豪轩\上位机软件\配套测试\配套测试\obj\x86\Debug\配套测试.exe
+H:\飞幕\新豪轩\上位机软件\配套测试\配套测试\obj\x86\Debug\配套测试.pdb
+H:\飞幕\新豪轩\上位机软件\配套测试\配套测试\bin\Debug\配套测试.exe
+H:\飞幕\新豪轩\上位机软件\配套测试\配套测试\bin\Debug\配套测试.pdb
+H:\飞幕\新豪轩\上位机软件\配套测试\配套测试\obj\x86\Debug\配套测试.Form1.resources
+H:\飞幕\新豪轩\上位机软件\配套测试\配套测试\obj\x86\Debug\配套测试.Properties.Resources.resources
+H:\飞幕\新豪轩\上位机软件\配套测试\配套测试\obj\x86\Debug\配套测试.csproj.GenerateResource.Cache
+H:\飞幕\新豪轩\上位机软件\配套测试\配套测试\obj\x86\Debug\配套测试.csprojResolveAssemblyReference.cache
